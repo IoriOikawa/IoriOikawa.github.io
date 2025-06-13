@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://iorioikawa.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://iorioikawa.github.io/" rel="alternate" type="text/html" /><updated>2025-06-13T01:21:44-04:00</updated><id>https://iorioikawa.github.io/feed.xml</id><title type="html">Iori “PaperNeko” Oikawa’s Info</title><subtitle>Computational Linguistics | AI Interrogator | DDoS Eliminator | Retro Programming</subtitle><entry><title type="html">Why I cannot understand maths books</title><link href="https://iorioikawa.github.io/notes/2025/06/11/why-i-cannot-understand-maths-books.html" rel="alternate" type="text/html" title="Why I cannot understand maths books" /><published>2025-06-11T15:20:41-04:00</published><updated>2025-06-11T15:20:41-04:00</updated><id>https://iorioikawa.github.io/notes/2025/06/11/why-i-cannot-understand-maths-books</id><content type="html" xml:base="https://iorioikawa.github.io/notes/2025/06/11/why-i-cannot-understand-maths-books.html"><![CDATA[<p>—Because I can’t distinguish between formal and informal language (v0.02)</p>
+
+<p>Since last year, I’ve felt that the foundational subjects I learned in college weren’t sufficient, so I decided to brush up on my knowledge. Starting with the discrete mathematics notes left behind by Cocoa, I was guided by B1 into computational theory and eventually found myself immersed in the world of mathematics. As someone who swims regularly but complains about the cold water for ages, jumping into an uncomfortable zone naturally feels unpleasant. I hope others with similar experiences won’t have to struggle as much as I did, so I keep starting new projects here; additionally, I wanted to use this space to commemorate what I’ve learned and the people who have helped me. I feel that instead of waiting to acknowledge everyone in the acknowledgments section of a paper, it’s better to express gratitude in this way for those who have added gems to my ordinary days. So if you’re reading these blogs and have something you’d like to share with me, please don’t hesitate to offer your insights.</p>
+
+<p>Now, onto the main topic—</p>
+
+<p>The mathematics textbooks we use in university are generally organized as follows:
+First come the axioms, then the theorems, followed by definitions, corollaries, lemmas (to prove new concepts), and examples interspersed with proofs. Then come the exercises and so on; some practical textbooks, like my undergraduate economics textbook, don’t focus on theory and proofs—as long as the material is usable (especially in the world of high-frequency trading, where calculus isn’t even applicable, emmmm)</p>
+
+<p>The advantage of this approach is that you don’t have to dwell on foundational theory; it’s like taking a bird’s-eye view: you don’t have to start from the ground up in the edifice of mathematics. Many people (like me) can use mathematics to solve problems but have never heard of mathematical logic, model theory, axiomatic set theory, recursion theory (computability theory), or proof theory. Yet, they still manage to do medical statistics, economic modeling, or machine learning.</p>
+
+<p>However, for interdisciplinary individuals, having a foundation in basic science allows them to think about problems from a more fundamental level, rather than just being a problem-solving expert in a new field. This is a capability that formally trained individuals may possess but often lack in depth.</p>
+
+<p>When updating your knowledge, there’s no need to learn “economic mathematics,” then “medical mathematics,” then “computer mathematics,” and repeat all the common threads multiple times—economic mathematics, medical mathematics, and computer mathematics should be like DLCs, loaded onto the core mathematical framework. For someone like me who has already installed “applied mathematics” (as I’ll call it for now), my advice to myself is still to keep updating the mathematical components.</p>
+
+<p>Now, let me explain why I can’t understand math books.</p>
+
+<p>Simply put, the most important thing is: that mathematical language is very different from our everyday language.</p>
+
+<p>Here, I’d like to introduce a concept called “meta-mathematics.” Meta-mathematics refers to a “scientific way of thinking or knowledge that treats mathematics as an object of human consciousness and culture,” using mathematical techniques to solve mathematical problems, and is the study of mathematics and mathematical philosophy.</p>
+
+<p>I may not remember clearly, but b1 once told me that describing mathematical processes using non-mathematical language, such as Chinese, is metamathematics research. To add one more point, this is the first of the three doors of metamathematics:
+1 Formalizing non-formalized theories to obtain
+2 (General) formal systems and special formal systems—object theory, and then</p>
+<ol>
+  <li>Using metatheory to describe and study formal systems, ultimately leading you to the world of mathematics.
+In this process, metatheory employs a great deal of ordinary language: for example, when you read the full text of Gödel’s Incompleteness Theorem, there are over 20 pages of preface before his argument, all written in non-mathematical language; the proof process also does not resemble the symbol-filled mathematical textbooks we are accustomed to.</li>
+</ol>
+
+<p>However, once we leave the mathematical sky city—the realm of metamathematics—we arrive at the earthly city—mathematics. As for why metamathematics is not mathematics, consider Richards’ paradox. This city differs from metamathematics in that it is built on “mathematical logic” represented by “axiomatic set theory”; or, to put it another way, the paradigm of the contemporary mathematical world is mathematical logic. This world is filled with formal languages, which are languages defined by precise mathematical or machine-processable formulas; here, the occasional appearance of informal language serves only as a decorative element (at this point, we refer to this mixture of formal and informal language as a “semi-formal language”).</p>
+
+<p>Although both formal and informal languages have linguistic “syntax” and “semantics,” they are fundamentally different.
+Even the definitions of the smallest symbols are fundamentally different. This is why I often find mathematics textbooks confusing.</p>
+
+<p>Consider this: we define informal language as “a composite communication system”; we define formal language as “a set of finite-length strings on an alphabet.” Really, these two concepts seem completely unrelated.</p>
+
+<p>So, after all,, if you don’t understand the difference between formal and informal languages, and you try to use the knowledge of applied mathematics and the logic of informal languages to understand mathematical textbooks, it will be quite difficult for us outsiders. To understand what’s in a math book, I think you need to start by familiarizing yourself with formal languages and symbols; if you understand some axiomatic set theory and mathematical logic, that’s even better.</p>
+
+<p>Finally, let me ask a question: why are formal languages written in math textbooks?</p>
+
+<p>To answer this question, I want you to imagine yourself as a genius mathematician like Euler, whose mind is constantly filled with new ideas that could change the world. Don’t be modest—just imagine it.</p>
+
+<p>You have a new idea: for you, you have a genius proof method; in fact, I believe every mathematician has their own unique core approach, including intuition. However, others may not understand your proof method, and you cannot explain the source of your inspiration to others. More critically, you cannot prove your idea is 100% correct because your core approach may not always work. What should you do?</p>
+
+<p>To explain your ideas to the majority of people who don’t measure up to your standards, or to peers with different research personalities, you first need to try to translate them into a language that everyone can understand precisely, and then present it to them. Whether it’s explaining, proving, or debating, you need to use this precise, unambiguous language to convert your ideas and thoughts; this ensures that the fruits of your thoughts can be fully conveyed to others. Of course, how others convert this intermediate language into their own understanding is not our concern. — Precisely conveying information is the meaning of formal language. This format of precise language, which has been tested and refined through consensus, is what we call the mathematical paradigm.</p>
+
+<p>Another advantage of formal language is that it allows us to define the boundaries of the problem we are addressing, or more precisely, what the mathematical theory we are expressing and studying is. To be precise, it is: what mathematics is relative to metamathematics. Let us assume that you are a mathematician contributing to your field, and you want your descriptions to be as universal as possible, applicable to various things with certain common properties, rather than merely fitting a specific case. We extract these common properties into the properties/operations of a set and extract the things with common properties into the elements of the set. This thing with elements and operations can be called a “space”; these commonly acknowledged, unproven common properties are called “axioms.” For example, the eight axioms for constructing a linear space… If you want your theories and concepts to be applicable in this space, you must satisfy these eight axioms. If other mathematicians or your students come up with new ideas, you can also use “whether these ideas satisfy these eight axioms” to verify them. By treating the axioms as elements of a set, we obtain an “axiomatic system”; by combining the axioms and all the theorems derived from them, we obtain a “mathematical theory.” The scope of a mathematical theory can be said to be the mathematical world relative to metamathematics. I have not used the term “category” because I do not want you to have to rewrite the definition of a category from category theory.</p>
+
+<p>Axioms written in formal/semi-formal languages, like the formalized/semi-formalized languages you see in books, are not natural laws; they are bridges connecting you, your peers, and the great mathematicians. To ensure the smoothness and stability of this bridge, we use “abstraction” to handle its model, resulting in its minimalist, abstract, and obscure style. Your goal and challenge lie in fully understanding the model of the bridge; as for how you choose to decorate the bridge in your mind afterward, that is your own affair.</p>
+
+<p>Finally, the definitions of formal languages, informal languages, axiomatic set theory, mathematical logic, and so on are certainly explained better on Wikipedia, and such knowledge is readily available, so I will not elaborate further.</p>]]></content><author><name></name></author><category term="notes" /><summary type="html"><![CDATA[—Because I can’t distinguish between formal and informal language (v0.02)]]></summary></entry><entry><title type="html">Your Functional Programming Compaion</title><link href="https://iorioikawa.github.io/2024/02/28/your-functional-programming-compaion.html" rel="alternate" type="text/html" title="Your Functional Programming Compaion" /><published>2024-02-28T00:00:00-05:00</published><updated>2024-02-28T00:00:00-05:00</updated><id>https://iorioikawa.github.io/2024/02/28/your-functional-programming-compaion</id><content type="html" xml:base="https://iorioikawa.github.io/2024/02/28/your-functional-programming-compaion.html"><![CDATA[<h1 id="-tldrracket-your-smart-study-companion-for-programming-languages--northeastern">🚀 TLDrRacket: Your Smart Study Companion for Programming Languages @ Northeastern</h1>
+
+<p><strong>Struggling with CS4400/5400 material? Say hello to TLDrRacket — your AI-powered guide to mastering Programming Languages!</strong></p>
+
+<p>🔗 <a href="https://paperneko.netlify.app/TLDrRacket/">Try it now!</a></p>
+
+<hr />
+
+<h3 id="-what-is-tldrracket">✨ What is TLDrRacket?</h3>
+
+<p>TLDrRacket is an interactive <strong>LLM-based learning tool</strong> built specifically for students in <strong>CS4400/5400 at Northeastern University</strong>. It uses cutting-edge <strong>Retrieval-Augmented Generation (RAG)</strong> to make thousands of pages of dense course content digestible, fast, and helpful.</p>
+
+<hr />
+
+<h3 id="-why-youll-love-it">🚨 Why You’ll Love It</h3>
+
+<ul>
+  <li>
+    <p><strong>🔍 AI-Powered Learning</strong><br />
+Comb through <strong>5000+ pages</strong> of Programming Languages material using natural language – no more skimming endless PDFs.</p>
+  </li>
+  <li>
+    <p><strong>⚡ Blazing Fast Responses</strong><br />
+Custom-tailored prompt engineering and optimized retrieval systems get you accurate answers in <strong>as little as 2 seconds</strong>.</p>
+  </li>
+  <li>
+    <p><strong>🌐 Accessible Anywhere</strong><br />
+Works on a local Python server or in the cloud via Google Cloud – designed to be cost-effective at <strong>just $0.01/day</strong>.</p>
+  </li>
+  <li>
+    <p><strong>💡 Designed for You, by One of You</strong><br />
+Created with student needs in mind – already helping <strong>60+ classmates</strong> and counting.</p>
+  </li>
+  <li>
+    <p><strong>🏅 Trusted and Proven</strong><br />
+Praised by students and professors alike – setting the bar for tech-enhanced learning at Northeastern.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="-get-ahead-with-tldrracket">🎓 Get Ahead with TLDrRacket</h3>
+
+<p>Whether you’re reviewing lambda calculus, diving into Racket syntax, or prepping for the next big assignment — <strong>TLDrRacket is your secret weapon</strong>.</p>
+
+<p>👉 <a href="https://paperneko.netlify.app/TLDrRacket/">Check it out now</a> and see why it’s the future of Programming Language education!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[🚀 TLDrRacket: Your Smart Study Companion for Programming Languages @ Northeastern]]></summary></entry></feed>
