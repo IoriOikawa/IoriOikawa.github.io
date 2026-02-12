@@ -17,7 +17,7 @@ title: "Iori \"PaperNeko\" Oikawa"
 
 - **Email**: [wang.fengk@northeastern.edu](mailto:wang.fengk@northeastern.edu)
 - **Office**: Khoury College of Computer Science, Northeastern University, Boston, MA02115
-- **Phone**: +1 (213) 866-2998
+- **Phone**: +1 (213) 537 - 7387
 
   **If you are my student at Drew:**
 
