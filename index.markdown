@@ -37,6 +37,10 @@ title: "Iori \"PaperNeko\" Oikawa"
 
 ## Selected Publications
 
+- Leni Aniva, **Iori Oikawa**, David Dill, Clark Barrett.
+  "Nazrin: Atomic Tactics for Graph Neural Networks for Theorem Proving in Lean 4."
+  *Preprint in arXiv*, [abs/2602.18767](https://arxiv.org/abs/2602.18767), 2026.
+
 - Jing Chen, Xiangyan Tang, Jieren Cheng, **Fengkai Wang**, Ruomeng Xu.
   “DDoS attack detection method based on network abnormal behavior in big data environment.”
   *International Journal of Computational Science and Engineering*, Vol. 23, No. 1, 2020.
