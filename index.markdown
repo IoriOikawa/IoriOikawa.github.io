@@ -42,11 +42,11 @@ title: "Iori \"PaperNeko\" Oikawa"
   *Formal Methods in Computer-Aided Design*, Graz, 2026.
 
 - Jing Chen, Xiangyan Tang, Jieren Cheng, **Fengkai Wang**, Ruomeng Xu.
-  “DDoS attack detection method based on network abnormal behavior in big data environment.”
+  [“DDoS attack detection method based on network abnormal behavior in big data environment.”](https://dl.acm.org/doi/abs/10.1504/ijcse.2020.110182)
   *International Journal of Computational Science and Engineering*, Vol. 23, No. 1, 2020.
 
 - Ruomeng Xu, Jieren Cheng, **Fengkai Wang**, Xiangyan Tang, Jinying Xu.
-  “A DRDoS Detection and Defense Method Based on Deep Forest in the Big Data Environment.”
+  [“A DRDoS Detection and Defense Method Based on Deep Forest in the Big Data Environment.”](https://www.mdpi.com/2073-8994/11/1/78)
   *Symmetry*, 11(1), 78, 2019.
 
 ---
