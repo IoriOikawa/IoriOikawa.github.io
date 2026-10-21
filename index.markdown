@@ -53,10 +53,10 @@ title: "Iori \"PaperNeko\" Oikawa"
 
 ## Teaching
 
-- **[2025]** CSCI260 at Drew University: Introduction to Computer Architecture and Systems (Lecturer)
-- **[2024]** CS5400/4400 at Northeastern: Principles of Programming Languages (TA)
-- **[2022]** INTEL REU 2022 at Princeton: Expanding RISC-V ISA to new realms (Course Designer & Lecturer)
-- **[2022]** CS5002 at Northeastern: Discrete Structures (TA)
+- **[2025]** CSCI260 at Drew University: [Introduction to Computer Architecture and Systems](https://iorioikawa.github.io/ComputerArchitecture-L0/) (Lecturer)
+- **[2024]** CS5400/4400 at Northeastern: [Principles of Programming Languages](https://pl.barzilay.org) (TA)
+- **[2022]** [INTEL REU 2022 at Princeton](https://seas-reu.princeton.edu/past-years): Expanding RISC-V ISA to new realms (Course Designer & Lecturer for version control)
+- **[2022]** CS5002 at Northeastern: [Discrete Structures](https://www.khoury.northeastern.edu/cs5002-discrete-data-structures-course-charter/) (TA)
 - **[2019]** Field Instructor: Laboratory of Artificial Intelligence and Big Data at Hainan University
 - **[2016]** Classical Japanese at Northeastern University (Lecturer)
 
